@@ -1,5 +1,5 @@
 
-# Hexlet PHP Linter
+# Hexlet PSP Linter
 
 [![Build Status](https://travis-ci.org/nazyrov/hexlet-php-linter.svg?branch=master)](https://travis-ci.org/nazyrov/hexlet-php-linter)
 [![Code Climate](https://codeclimate.com/github/nazyrov/hexlet-php-linter/badges/gpa.svg)](https://codeclimate.com/github/nazyrov/hexlet-php-linter)
