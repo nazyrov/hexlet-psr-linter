@@ -1,0 +1,22 @@
+{
+  "name": "nazyrov/hexlet-psr-linter",
+  "bin": ["bin/php-package"],
+  "type": "library",
+  "authors": [
+    {
+      "name": "Renat Nazyrov",
+      "email": "nazyrovrh@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "HexletPsrLinter\\": "src/"
+    }
+  },
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "*",
+    "squizlabs/php_codesniffer": "*",
+    "codeclimate/php-test-reporter": "dev-master"
+  }
+}
