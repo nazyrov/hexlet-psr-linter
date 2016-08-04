@@ -13,7 +13,9 @@
       "HexletPsrLinter\\": "src/"
     }
   },
-  "require": {},
+  "require": {
+    "php": ">=7.0"
+  },
   "require-dev": {
     "phpunit/phpunit": "*",
     "squizlabs/php_codesniffer": "*",
